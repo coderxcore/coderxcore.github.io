@@ -1,7 +1,5 @@
 # Privacy Policy / 隐私政策
 
-[返回首页 / Back to Home](README.md)
-
 **English**
 
 This extension respects and protects user privacy. This Privacy Policy explains how the extension handles (or does not handle) user data.
